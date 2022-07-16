@@ -6,10 +6,10 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=D691B2.D691B2) [![Github](https://img.shields.io/github/followers/D691B2?label=Followers&logo=Github)](https://github.com/D691B2)
 <hr>
 
-# I'm Just a Student ML , Mobile Applications Dev , Cyber Security !!
+# I'm a Cyber Security and Penetration Testing Student !!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Learn more about Machine Learning
+- 🥅 2022 Goals: Learn more about Quantum Computing
 - ⚡ Fun fact: There is no end to knowledge
 
 <hr>
